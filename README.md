@@ -1,2 +1,2 @@
 # JuveMania
-A quizz Game about Juventus Football Club
+A quizz Game about General Knowledge.
